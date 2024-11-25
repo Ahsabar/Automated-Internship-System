@@ -1,0 +1,50 @@
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio
+.vs/
+
+# NuGet packages
+*.nupkg
+**/[Pp]ackages/*
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# ASP.NET-specific
+*.azurePubxml
+*.pubxml
+*.publishproj
+
+# ReSharper files
+_ReSharper*
+*.DotSettings.user
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
+
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Staging.json
+
+secrets.json
+
+api.csproj.user
